@@ -2,4 +2,8 @@ langchain
 langgraph
 langsmith
 python-dotenv
-langchain-groq
+langchain-openai
+langchain-tavily
+langchain_community
+pypdf
+bs4
