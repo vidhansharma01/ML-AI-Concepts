@@ -8,3 +8,5 @@ langchain_community
 pypdf
 bs4
 langchain-text-splitters
+chromadb
+langchain-chroma
