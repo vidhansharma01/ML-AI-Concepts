@@ -11,3 +11,4 @@ bs4
 langchain-text-splitters
 chromadb
 langchain-chroma
+langgraph-checkpoint
